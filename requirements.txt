@@ -1,0 +1,8 @@
+1-python 3
+2-virtual environment python
+3-Django 4
+4-numpy
+5-matplotlib
+6-pandas
+7-joblib
+8-scikit-learn

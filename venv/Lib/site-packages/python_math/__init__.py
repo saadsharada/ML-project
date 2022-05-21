@@ -1,0 +1,22 @@
+import math
+def add(num1,num):
+    num3=num1+num2
+    print(num3)
+def substract(num1,num):
+    num3=num1-num2
+    print(num3)
+def multiply(num1,num):
+    num3=num1*num2
+    print(num3)
+def divide(num1,num):
+    num3=num1/num2
+    print(num3)
+def exponent(num1,num):
+    num3=num1**num2
+    print(num3)
+def root(num1,num2):
+    num3=1/num2
+    num4=num1**num3
+
+
+
