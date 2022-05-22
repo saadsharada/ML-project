@@ -1,2 +1,2 @@
 # ML-project
-Diabetes prediction with ML model and deployment with Django
+Diabetes prediction using Machine Learning Algorithms (K-Nearest Neighbors Algorithm) and Deployment with Django.
